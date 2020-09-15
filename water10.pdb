@@ -1,0 +1,33 @@
+REMARK  CALC ENE OF 2 WATER MLC                                                       
+REMARK   DATE:    10/14/ 4     18:43:39      CREATED BY USER: fuchs                   
+ATOM      1  OH2 TIP3    1     -15.471  -4.508   2.715  1.00  0.00      SOLV
+ATOM      2  H1  TIP3    1     -15.735  -5.419   2.863  1.00  0.00      SOLV
+ATOM      3  H2  TIP3    1     -14.678  -4.452   3.252  1.00  0.00      SOLV
+ATOM      4  OH2 TIP3    2     -15.509   0.660   1.768  1.00  0.00      SOLV
+ATOM      5  H1  TIP3    2     -15.465  -0.208   1.361  1.00  0.00      SOLV
+ATOM      6  H2  TIP3    2     -16.458   0.793   1.828  1.00  0.00      SOLV
+ATOM      7  OH2 TIP3    3     -10.413  -1.889   1.594  1.00  0.00      SOLV
+ATOM      8  H1  TIP3    3     -10.894  -1.075   1.435  1.00  0.00      SOLV
+ATOM      9  H2  TIP3    3     -11.144  -2.488   1.461  1.00  0.00      SOLV
+ATOM     10  OH2 TIP3    4      -5.957  -0.884   2.226  1.00  0.00      SOLV
+ATOM     11  H1  TIP3    4      -5.619  -1.771   2.356  1.00  0.00      SOLV
+ATOM     12  H2  TIP3    4      -6.888  -0.970   2.435  1.00  0.00      SOLV
+ATOM     13  OH2 TIP3    5      -1.417   2.059   1.061  1.00  0.00      SOLV
+ATOM     14  H1  TIP3    5      -1.240   2.484   1.900  1.00  0.00      SOLV
+ATOM     15  H2  TIP3    5      -2.171   1.498   1.270  1.00  0.00      SOLV
+ATOM     16  OH2 TIP3    6      -2.582  -5.407   2.342  1.00  0.00      SOLV
+ATOM     17  H1  TIP3    6      -2.291  -6.278   2.604  1.00  0.00      SOLV
+ATOM     18  H2  TIP3    6      -1.904  -4.818   2.685  1.00  0.00      SOLV
+ATOM     19  OH2 TIP3    7       1.736  -2.435   2.616  1.00  0.00      SOLV
+ATOM     20  H1  TIP3    7       2.694  -2.335   2.587  1.00  0.00      SOLV
+ATOM     21  H2  TIP3    7       1.443  -1.730   2.041  1.00  0.00      SOLV
+ATOM     22  OH2 TIP3    8       5.112  -0.545   1.752  1.00  0.00      SOLV
+ATOM     23  H1  TIP3    8       4.791  -0.294   2.620  1.00  0.00      SOLV
+ATOM     24  H2  TIP3    8       6.067  -0.530   1.862  1.00  0.00      SOLV
+ATOM     25  OH2 TIP3    9      10.908   0.211   2.712  1.00  0.00      SOLV
+ATOM     26  H1  TIP3    9      11.784   0.399   3.049  1.00  0.00      SOLV
+ATOM     27  H2  TIP3    9      10.477   1.064   2.730  1.00  0.00      SOLV
+ATOM     28  OH2 TIP3   10       8.936  -4.839   3.811  1.00  0.00      SOLV
+ATOM     29  H1  TIP3   10       8.758  -3.910   3.672  1.00  0.00      SOLV
+ATOM     30  H2  TIP3   10       9.837  -4.939   3.511  1.00  0.00      SOLV
+END
